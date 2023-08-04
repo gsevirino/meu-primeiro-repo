@@ -1,2 +1,2 @@
 # meu-primeiro-repo
-Meu primeiro repositório
+Este repositório foi criado para o exercício de Setup de Ferramentas da Cubos Academy.
